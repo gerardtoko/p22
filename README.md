@@ -1,0 +1,38 @@
+# p22
+``` 
+array(
+  array(
+    "Nom" => "Forrest Gump",
+    "Année" => 1994,
+    "Durée" => "2h20min",
+    "Réalisateur" => "Robert Zemeckis",
+    "Acteurs" => array("Tom Hanks", "Gary Siniseplus", "Brad Pitt"),
+    "Genres" => array("Comédie dramatique" , "Romance"),
+    "Like" => 100806,
+    "Affiche" => "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "Privé" => true
+  ),
+  array(
+    "Nom" => "Django Unchained",
+    "Année" => 2013,
+    "Durée" => "2h44min",
+    "Réalisateur" => "Quentin Tarantino",
+    "Acteurs" => array("Jamie Foxx", "Christoph Waltz", "Clint Eastwood"),
+    "Genres" => array("Western"),
+    "Like" => 10030,
+    "Affiche" => "http://www.filmosphere.com/wp-content/uploads/2012/12/Django-Unchained-affiche.jpg",
+    "Privé" => true
+  ),
+  array(
+    "Nom" => "La Ligne verte",
+    "Année" => 2000,
+    "Durée" => "3h9min",
+    "Réalisateur" => "Frank Darabont",
+    "Acteurs" => array("Tom Hanks", "Michael Clarke Duncan",  "Brad Pitt"),
+    "Genres" => array("Fantastique" , "Policier"),
+    "Like" => 20030,
+    "Privé" => false,
+    "Affiche" => "http://www.notrecinema.com/images/cache/la-ligne-verte-poster_50432_40929.jpg",
+   )
+  );
+  ```
