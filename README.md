@@ -1,5 +1,14 @@
 # p22
 ``` 
+
+$a = [
+	["nom" => "matrix",	"annee" => 2002, "salle" => 20],
+	["nom" => "django",	"annee" => 2014, "salle" => 18],
+	["nom" => "fight club",	"annee" => 2009, "salle" => 20],
+	["nom" => "calimero",	"annee" => 2010, "salle" => 12]	
+];
+
+
 array(
   array(
     "Nom" => "Forrest Gump",
