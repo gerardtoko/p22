@@ -9,6 +9,20 @@ $a = [
 ];
 
 
+foreach($a as $value) {
+	echo "<br>";
+	
+	if (
+		($value["annee"] >= 2005)
+		&& ($value["annee"] <= 2015) 
+		&& ($value["salle"] == 20)
+		&& ($value["nom"] != "django"))
+	{
+	 echo $value["nom"];
+	}
+}
+
+
 array(
   array(
     "Nom" => "Forrest Gump",
